@@ -1,0 +1,28 @@
+name: Cucubano
+favicon: null
+layout_spectrum: 0.012666158378124237
+typography_spectrum: 0.6733662830665708
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2213170889299363
+  lightness: 0.24890836398117244
+  saturation: 0.23640392976813018
+  rhythmicContrast: 0.608521728310734
+purpose: []
